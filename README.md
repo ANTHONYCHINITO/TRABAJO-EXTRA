@@ -185,7 +185,7 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/93900233/151118527-808f1c70-ba84-4318-a5ca-92a0716ed402.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151118556-e7143289-cf37-4209-8952-c12f0b577751.png)
+![image](https://user-images.githubusercontent.com/93900233/151119174-a9288d1d-9459-4e0c-9cad-379529887058.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/151118566-c61d93cb-e5be-455b-8f82-3f71af6bbf7e.png)
 
