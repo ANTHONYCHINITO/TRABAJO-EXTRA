@@ -111,11 +111,6 @@ AHORA HABLAREMOS SOBRE LOS FUNCIONAMIENTO DE LA PLATAFORMA
 
 ![image](https://user-images.githubusercontent.com/93900233/151106899-8530d059-c102-4e61-ac8f-2449fab32b90.png)
 
-
-
-
-
-
 INTERFAZ DE CONTROL:
 
 ![Concept Map](https://user-images.githubusercontent.com/93900233/150730171-eca45fae-2d0e-4790-b065-2e8093c8e1dc.jpg)
@@ -138,6 +133,69 @@ TERCER EJEMPLO
 
 EXPLICACIÓN DEL PROCEDIMIENTO
 
+![image](https://user-images.githubusercontent.com/93900233/151118215-43bd82ac-d8cf-4b1c-9860-2ca1c7b882d8.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118222-1984fab0-c61a-4e3c-be3c-606791b303c4.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118227-672afbb5-c5b1-4f39-aa73-bc7ee19b63c8.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118237-ff73afc2-e20f-4008-ba70-292b04611c7e.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118248-9a755388-3c1f-4992-a698-5574df70f2a3.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118300-86f095ab-3bbe-4b17-8347-ba26ce9d9a98.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118308-c72248a7-7e08-49dc-b93c-0bbf262ee3f9.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118315-fdd00c01-9008-4073-a595-0cf867578f11.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118329-161b8007-6409-4466-91a6-321e0be713a9.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118339-1209078d-180b-4216-bdf1-cb7319162088.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118358-d2d3b125-396c-4993-8c92-251059e81fdd.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118368-fa501f0c-c758-4d62-9097-f74510c25cde.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118375-995e1ee5-01d1-4c8d-8278-1bd545a8bb8f.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118395-424790b6-16f1-4eae-a401-00b59f11b620.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118399-ddebee83-b7b3-4c64-a34b-82fd55ecc57c.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118409-bf12251e-fdc7-4207-a392-ba7525d8fda4.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118422-8db988cf-0513-4ff7-b824-64367704cffb.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118431-596662ec-e1f3-451a-a581-f5e219b99037.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118440-fa3d12e6-c229-4faa-b63f-ec07edd69c4d.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118453-67af46f3-ee59-4e95-998f-884140aac74a.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118466-5582e39f-0502-4e68-b0cf-e5ac69956e43.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118478-b8ce5705-498a-49f6-8b4a-e92015e16880.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118487-0f45db14-5e87-4b1b-bd3d-20bd743f7f4b.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118502-c8014b3e-8405-4eda-9e70-a4ed20943458.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118511-0db9a1fa-7a78-423a-b0f0-eff494ec1c5c.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118527-808f1c70-ba84-4318-a5ca-92a0716ed402.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118556-e7143289-cf37-4209-8952-c12f0b577751.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118566-c61d93cb-e5be-455b-8f82-3f71af6bbf7e.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118574-5e6be75f-2f54-46ac-8370-0d73d3323189.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118580-17f9c8a1-2cb6-4ba3-8c75-056493bee576.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118589-dcad45fc-629c-4683-b5be-80b30c900134.png)
+
+![image](https://user-images.githubusercontent.com/93900233/151118599-dab74c78-e8d7-498d-a2bd-eb08885d257e.png)
 
 
 
@@ -149,15 +207,6 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 
 
-DISEÑO DE INTERFAZ EN THINGSBOARD:
-
-![image](https://user-images.githubusercontent.com/93900233/150730487-fda58f56-9d20-47a4-96c2-3e541552933b.png)
-
-![image](https://user-images.githubusercontent.com/93900233/150730714-bfbb7ef2-cee4-4bac-a65b-c809dad5d43d.png)
-
-* Este interfaz se prende por medio de un switch de (apagado y encendido) una vez encendido habra un led que se active y se pora de visualizar de color verde  y dara una señal para que el demas sistema funcione y una vez que el sistema este funcinando tendremos un termometro, Higrómetro , una brujula( para saber el lugar o coordenadas dependiendo de donde nos encontremos ), tambien hay lecturas tanto como para medir la temperatura y para la humedad por ultimo tendremos un mapa.
-
-* Entonces una vez encendido el sistema el usuario quiere saber la temperatura y humedad de cualquier parte del mundo y como va variando dependiendo del tiempo para ello debera marcar en el mapa y una vez marcado en el mapa directamente nos arogaran los datos de la temperatura y humedad y sus respectivas lecturas con respecto al tiempo 
 
 CONCLUSIONES:
 
