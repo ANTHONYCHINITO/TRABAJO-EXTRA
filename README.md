@@ -43,15 +43,13 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/93900233/151083234-c443fd60-e2bb-4534-98b0-aa3b151079b6.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151084138-a05b6778-4d9e-4069-9e8c-91a1310d4649.png)
-
 ![image](https://user-images.githubusercontent.com/93900233/151086858-647ef125-8394-4aa6-9bff-4c275e7f1b5b.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/151086876-0847305a-1896-4fa4-899c-c58b73377d72.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/151086883-13dbc239-7304-407c-b651-97fab7a6e889.png)
 
-
+![image](https://user-images.githubusercontent.com/93900233/151087232-10e29c09-27df-41ce-a5de-2ec4eae72ace.png)
 
 
 
