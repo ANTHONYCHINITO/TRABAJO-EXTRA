@@ -1,11 +1,15 @@
 # TRABAJO-EXTRA-DISEÑO DE UNA INTERFAZ
-OBJETIVOS:
+OBJETIVO GENERAL:
 
-- Poder conocer por medio de indicadores la situación en la que se encuentra una organización.
+Permite la recolección, procesamiento y visualización de datos y administración de dispositivos ya que permite  la  conectividad  de  dispositivos  vía  a  protocolos  estándar  IoT  tales  como:  MQTT,  HTTP  y  CoAP,  soportando  despliegues tanto  en  la  nube  como  en  infraestructura dentro de una empresa.
 
-- Permitir a las gerencias corporativas tomar decisiones oportunas en varias áreas: cartera, ventas, gastos, productividad, entre otros que serán claves para ejecutar acciones certeras y así mantener el control de una dirección.
+OBJETIVO ESPECIFICOS:
 
-- Monitoriar ciertas funciones que ayudan al usuario a tener mejor organizacion del sistema 
+- Conocer y manipular la plataforma thingsboard para la creacion de un interfaz.
+
+- Saber como es el diseño de una interfaz de control o panel para que en un futuro ponerlo en practica en cualquier empresa.
+
+- Conocer el funcionamiento o tener una idea de las funciones que ofrece thingsboard.
 
 MARCO TEORICO :
 
