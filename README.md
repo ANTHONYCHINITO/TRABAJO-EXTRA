@@ -31,25 +31,14 @@ TERCER EJEMPLO
 
 EXPLICACIÓN DEL PROCEDIMIENTO
 
-![image](https://user-images.githubusercontent.com/93900233/151081127-9eadae7a-b293-45ef-8634-d597abb90dcb.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151081550-13be9021-6a10-4b84-909c-318b734bb2b0.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151081841-d5d8ac3d-b89d-4fc0-be05-74855323bb2e.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151082329-c36beca8-a825-4d4b-9782-8ee8f042b57d.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151082467-2be13897-14a5-4c6d-beab-e2fc28f10f2b.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151083234-c443fd60-e2bb-4534-98b0-aa3b151079b6.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151086858-647ef125-8394-4aa6-9bff-4c275e7f1b5b.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151086876-0847305a-1896-4fa4-899c-c58b73377d72.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151086883-13dbc239-7304-407c-b651-97fab7a6e889.png)
-
-![image](https://user-images.githubusercontent.com/93900233/151087232-10e29c09-27df-41ce-a5de-2ec4eae72ace.png)
 
 
 
