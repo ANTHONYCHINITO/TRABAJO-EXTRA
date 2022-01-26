@@ -107,8 +107,6 @@ AHORA HABLAREMOS SOBRE LOS FUNCIONAMIENTO DE LA PLATAFORMA
 
 ![image](https://user-images.githubusercontent.com/93900233/151105788-bda573fe-ed83-40c7-959a-1090c56984c9.png)
 
-![image](https://user-images.githubusercontent.com/93900233/151105847-dff5859f-6670-45c0-b2b4-e2c7b64d8a53.png)
-
 ![image](https://user-images.githubusercontent.com/93900233/151106812-8ff5f5c8-3326-4ac2-8129-d734ef0c6356.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/151106899-8530d059-c102-4e61-ac8f-2449fab32b90.png)
