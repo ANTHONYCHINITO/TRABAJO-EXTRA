@@ -27,6 +27,15 @@ TERCER EJEMPLO
 
 ![image](https://user-images.githubusercontent.com/93900233/150888814-b0412ba3-8ac9-4973-9177-d3c351afe55f.png)
 
+EXPLICACIÓN DEL PROCEDIMIENTO
+
+![image](https://user-images.githubusercontent.com/93900233/151081127-9eadae7a-b293-45ef-8634-d597abb90dcb.png)
+
+
+
+
+
+
 
 DISEÑO DE INTERFAZ EN THINGSBOARD:
 
