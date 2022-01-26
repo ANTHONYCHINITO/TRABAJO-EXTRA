@@ -81,6 +81,8 @@ AHORA HABLAREMOS SOBRE LOS FUNCIONAMIENTO DE LA PLATAFORMA
 
 ![image](https://user-images.githubusercontent.com/93900233/151105643-63385a20-c0d8-45ac-abd9-4cab350b2414.png)
 
+![image](https://user-images.githubusercontent.com/93900233/151106163-f78521d0-64e5-4b22-ab06-dd2901d6c73b.png)
+
 ![image](https://user-images.githubusercontent.com/93900233/151105668-5fa567b6-ba73-4d43-8a02-61a55293f513.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/151105675-b93823b8-2ad7-4a29-804d-ccf09e5b3e26.png)
