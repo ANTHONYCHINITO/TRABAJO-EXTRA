@@ -1,7 +1,7 @@
 # TRABAJO-EXTRA-DISEÑO DE UNA INTERFAZ
 OBJETIVO GENERAL:
 
-Permite la recolección, procesamiento y visualización de datos y administración de dispositivos ya que permite  la  conectividad  de  dispositivos  vía  a  protocolos  estándar  IoT  tales  como:  MQTT,  HTTP  y  CoAP,  soportando  despliegues tanto  en  la  nube  como  en  infraestructura dentro de una empresa.
+-Permite la recolección, procesamiento y visualización de datos y administración de dispositivos ya que permite  la  conectividad  de  dispositivos  vía  a  protocolos  estándar  IoT  tales  como:  MQTT,  HTTP  y  CoAP,  soportando  despliegues tanto  en  la  nube  como  en  infraestructura dentro de una empresa.
 
 OBJETIVO ESPECIFICOS:
 
@@ -201,17 +201,11 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/93900233/151118599-dab74c78-e8d7-498d-a2bd-eb08885d257e.png)
 
-
-
-
-
-
-
-
-
-
-
+VIDEO:
 
 CONCLUSIONES:
 
 El programa thingboard nos acerca casi a la realidad de como es un panel o interfaz de control, pero en si podemos saber de como funcionan o como se organizan en el tema de funcionamiento de varios sistemas al mismo tiempo o como pueden manipular objetos desde  otro lugar y que tengan un funcionamiento eficiente.
+
+BIBLIOGRAFIAS:
+
