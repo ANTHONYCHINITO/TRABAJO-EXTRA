@@ -119,8 +119,6 @@ INTERFAZ DE CONTROL:
 
 ![Concept Map](https://user-images.githubusercontent.com/93900233/150730171-eca45fae-2d0e-4790-b065-2e8093c8e1dc.jpg)
 
-
-
 Ejemplos:
 
 PRIMER EJEMPLO
@@ -205,7 +203,17 @@ VIDEO:
 
 CONCLUSIONES:
 
-El programa thingboard nos acerca casi a la realidad de como es un panel o interfaz de control, pero en si podemos saber de como funcionan o como se organizan en el tema de funcionamiento de varios sistemas al mismo tiempo o como pueden manipular objetos desde  otro lugar y que tengan un funcionamiento eficiente.
+-La plataforma es muy completa ya que recopila y visualiza datos de dispositivos y activos, control de dispositivos mediante llamadas a procedimientos remotos y entre muchas cosas mas que ofrece esta plataforma.
+
+-El programa thingboard nos acerca casi a la realidad de como es un panel o interfaz de control, pero en si podemos saber de como funcionan o como se organizan en el tema de funcionamiento de varios sistemas al mismo tiempo o como pueden manipular objetos desde  otro lugar y que tengan un funcionamiento eficiente.
 
 BIBLIOGRAFIAS:
+
+F.Mateos, J. (12 de julio de 2019). ThingsBoard. Obtenido de Taller de introducción a ThingsBoard: https://www.medialab-matadero.es/actividades/taller-de-introduccion-thingsboard
+
+Alvarez, F. J. (2021). Obtenido de DISEÑO E IMPLEMENTACIÓN DE UNA PLATAFORMA ESCALABLE PARA LA GESTION DE SISTEMAS IOT: https://sostenibilidad.upm.es/wp-content/uploads/sites/759/2021/01/TFG_Francisco-Javier-Garcia-Alvarez.pdf
+
+(s.f.). Obtenido de AULA DE TRANSFORMACIÓN DIGITAL FIWARE: https://www.uco.es/atdfiware/software-de-interes/72-simple-integracion-fiware-con-thingsboard
+
+Lopez, G. A. (2018). EXTENSIÓN DE LA PLATAFORMA DE FUENTE ABIERTA THINGSBOARD PARA EL DESARROLLO DE SOLUCIONES IOT PARA EL AGRO COLOMBIANO. Obtenido de http://docplayer.es/128921967-Extension-de-la-plataforma-de-fuente-abierta-thingsboard-para-el-desarrollo-de-soluciones-iot-para-el-agro-colombiano.html
 
