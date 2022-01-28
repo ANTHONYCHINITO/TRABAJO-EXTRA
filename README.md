@@ -115,25 +115,25 @@ AHORA HABLAREMOS SOBRE LOS FUNCIONAMIENTO DE LA PLATAFORMA
 
 ![image](https://user-images.githubusercontent.com/93900233/151106899-8530d059-c102-4e61-ac8f-2449fab32b90.png)
 
-INTERFAZ DE CONTROL:
+- INTERFAZ DE CONTROL:
 
 ![Concept Map](https://user-images.githubusercontent.com/93900233/150730171-eca45fae-2d0e-4790-b065-2e8093c8e1dc.jpg)
 
 Ejemplos:
 
-PRIMER EJEMPLO
+- PRIMER EJEMPLO
 
 ![image](https://user-images.githubusercontent.com/93900233/150888133-2a58c350-2048-451d-882c-c9d5cf0e5245.png)
 
-SEGUNDO EJEMPLO
+- SEGUNDO EJEMPLO
 
 ![image](https://user-images.githubusercontent.com/93900233/150888260-db7a172c-c948-4661-b952-74436ea9f4f3.png)
 
-TERCER EJEMPLO
+- TERCER EJEMPLO
 
 ![image](https://user-images.githubusercontent.com/93900233/150888814-b0412ba3-8ac9-4973-9177-d3c351afe55f.png)
 
-EXPLICACIÓN DEL PROCEDIMIENTO
+- EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/93900233/151118215-43bd82ac-d8cf-4b1c-9860-2ca1c7b882d8.png)
 
