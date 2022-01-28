@@ -201,6 +201,8 @@ Ejemplos:
 
 VIDEO:
 
+https://www.youtube.com/watch?v=uZ9CkXLxfxo&t=6s
+
 CONCLUSIONES:
 
 - La plataforma es muy completa ya que recopila y visualiza datos de dispositivos y activos, control de dispositivos mediante llamadas a procedimientos remotos y entre muchas cosas mas que ofrece esta plataforma.
