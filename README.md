@@ -1,7 +1,7 @@
 # TRABAJO-EXTRA-DISEÑO DE UNA INTERFAZ
 OBJETIVO GENERAL:
 
--Permite la recolección, procesamiento y visualización de datos y administración de dispositivos ya que permite  la  conectividad  de  dispositivos  vía  a  protocolos  estándar  IoT  tales  como:  MQTT,  HTTP  y  CoAP,  soportando  despliegues tanto  en  la  nube  como  en  infraestructura dentro de una empresa.
+- Permite la recolección, procesamiento y visualización de datos y administración de dispositivos ya que permite  la  conectividad  de  dispositivos  vía  a  protocolos  estándar  IoT  tales  como:  MQTT,  HTTP  y  CoAP,  soportando  despliegues tanto  en  la  nube  como  en  infraestructura dentro de una empresa.
 
 OBJETIVO ESPECIFICOS:
 
