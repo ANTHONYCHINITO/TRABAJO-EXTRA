@@ -1,7 +1,7 @@
 # TRABAJO-EXTRA-DISEÑO DE UNA INTERFAZ
 OBJETIVO GENERAL:
 
-- Explicar las varias funciones que nos ofrece la plataforma thingsboard, a su vez saber y diseñar un interfaz de control mediante la revision de varias guias que ofrece la misma para poder almacenar, visualizar y analizar los datos de nuestros dispositivos.
+- Diseñar un interfaz de control mediante la revision de varias guias que ofrece la misma para poder almacenar, visualizar y analizar los datos de nuestros dispositivos.
 
 OBJETIVO ESPECIFICOS:
 
